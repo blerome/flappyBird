@@ -1,6 +1,6 @@
 import pygame
 import random
-
+/*Dejar*/
 # Inicializar PyGame
 pygame.init()
 pygame.joystick.init()
